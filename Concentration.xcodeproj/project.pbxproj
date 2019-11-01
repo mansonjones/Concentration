@@ -27,6 +27,7 @@
 		3C8AA6FB234D500D003EE134 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C8AA6FE234D500D003EE134 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C8AA700234D500D003EE134 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C8BF717236CEB1D004BF4C6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3C99D0DA2357CDA000221D0B /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
 		3C99D0DC2357CE7600221D0B /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		3C99D17A236209A300221D0B /* ConcentrationThemeChooserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcentrationThemeChooserViewController.swift; sourceTree = "<group>"; };
@@ -46,6 +47,7 @@
 		3C8AA6E6234D500C003EE134 = {
 			isa = PBXGroup;
 			children = (
+				3C8BF717236CEB1D004BF4C6 /* README.md */,
 				3C8AA6F1234D500C003EE134 /* Concentration */,
 				3C8AA6F0234D500C003EE134 /* Products */,
 			);
